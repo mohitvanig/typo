@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.12080335731414868" />
+        <entry key="app/src/main/res/drawable-v24/messagecard_rectangle_grey.xml" value="0.216" />
+        <entry key="app/src/main/res/drawable-v24/sendbutton_background_clicked.xml" value="0.1295" />
+        <entry key="app/src/main/res/drawable/button_gradient_background.xml" value="0.3025" />
+        <entry key="app/src/main/res/drawable/card_rectangle.xml" value="0.1475" />
+        <entry key="app/src/main/res/drawable/card_rectangle_grey.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/circular_back.xml" value="0.1475" />
+        <entry key="app/src/main/res/drawable/gradient_background.xml" value="0.1475" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.2255" />
+        <entry key="app/src/main/res/drawable/sendbutton_background_grey.xml" value="0.235" />
+        <entry key="app/src/main/res/drawable/typeoptions.xml" value="0.1295" />
+        <entry key="app/src/main/res/layout/activity_checkboxactivity.xml" value="0.15070921985815602" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2585647583007813" />
+        <entry key="app/src/main/res/layout/activity_room.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/activity_test.xml" value="0.15070921985815602" />
+        <entry key="app/src/main/res/layout/checkboxlist.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/list_car.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/message.xml" value="0.2368659420289855" />
+        <entry key="app/src/main/res/layout/message_card.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/message_with_list_card.xml" value="0.17074275362318841" />
+        <entry key="app/src/main/res/layout/messageinputlayout.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/room_card_potrait.xml" value="0.2765957446808511" />
+        <entry key="app/src/main/res/layout/testmain.xml" value="0.5901041666666667" />
+        <entry key="app/src/main/res/layout/typeoptions.xml" value="0.19021739130434784" />
+        <entry key="app/src/main/res/menu/bottom_navigation_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.2585647583007813" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

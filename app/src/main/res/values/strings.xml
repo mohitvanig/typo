@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">typo</string>
+    <string name="profile">profile</string>
+    <string name="search">search</string>
+    <string name="home">home</string>
+    <string name="typo">typo</string>
+    <string name="bullet_point">&#8226; </string>
+
+</resources>
